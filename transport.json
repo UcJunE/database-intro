@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 4001,
+    "mode": "air",
+    "schedule": "Monday"
+  },
+  {
+    "_id": 4002,
+    "mode": "land",
+    "schedule": "Tuesday"
+  },
+  {
+    "_id": 4003,
+    "mode": "sea",
+    "schedule": "Friday"
+  }
+]

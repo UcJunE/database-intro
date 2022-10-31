@@ -1,0 +1,18 @@
+[
+  {
+    "_id": 1001,
+    "name": "Ben",
+    "contact": 124554
+  },
+
+  {
+    "_id": 1002,
+    "name": "Cindy",
+    "contact": 441155
+  },
+  {
+    "_id":1003,
+    "name":"Tim",
+    "contact":223344
+  }
+]

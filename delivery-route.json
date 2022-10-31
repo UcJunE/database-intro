@@ -1,0 +1,29 @@
+[
+  {
+    "_id": 6001,
+    "destination": {
+      "address": "Jalan Round",
+      "postcode": 14556,
+      "unit": 13,
+      "country": "Cuba"
+    }
+  },
+  {
+    "_id": 6002,
+    "destination": {
+      "address": "Jalan square",
+      "postcode": 145546,
+      "unit": 31,
+      "country": "Cuba"
+    }
+  },
+  {
+    "_id": 6003,
+    "destination": {
+      "address": "Jalan square",
+      "postcode": 145546,
+      "unit": 31,
+      "country": "Cuba"
+    }
+  }
+]

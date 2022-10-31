@@ -1,0 +1,35 @@
+[
+  {
+    "_id": 3001,
+    "type": "big-storage",
+    "address": {
+      "postcode": 14000,
+      "unit": 12,
+      "location": "Jalan besar",
+      "country": "Indonesia"
+    },
+    "contact": 1357912
+  },
+  {
+    "_id": 3002,
+    "type": "big-box",
+    "address": {
+      "postcode": 14500,
+      "unit": 12,
+      "location": "Jalan kecil",
+      "country": "Malaysia"
+    },
+    "contact": 246810
+  },
+  {
+    "_id": 3003,
+    "type": "big-plastic",
+    "address": {
+      "postcode": 15000,
+      "unit": 12,
+      "location": "Jalan medium",
+      "country": "Vietnam"
+    },
+    "contact": 33445566
+  }
+]

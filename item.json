@@ -1,0 +1,47 @@
+[
+  {
+    "_id": 2001,
+    "name": "box",
+    "quantity": 10,
+    "weight": "100",
+    "unit": "ton",
+    "dimension": {
+      "length": 100,
+      "width": 100,
+      "height": 100
+    },
+    "destination": "Singapore",
+    "insurance-amount": "10000",
+    "currency": "sgd"
+  },
+  {
+    "_id": 2002,
+    "name": "container",
+    "quantity": 100,
+    "weight": "100",
+    "unit": "ton",
+    "dimension": {
+      "length": 200,
+      "width": 200,
+      "height": 200
+    },
+    "destination": "Malaysia",
+    "insurance-amount": "10000",
+    "currency": "sgd"
+  },
+  {
+    "_id": 2003,
+    "name": "plastic-box",
+    "quantity": 100,
+    "weight": "100",
+    "unit": "ton",
+    "dimension": {
+      "length": 300,
+      "width": 300,
+      "height": 300
+    },
+    "destination": "Thailand",
+    "insurance-amount": "10000",
+    "currency": "sgd"
+  }
+]
